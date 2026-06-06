@@ -167,5 +167,6 @@ The observed simulation results matched the expected theoretical outputs.
 ## Author
 
 Himanshu Rabha
+Melvin Boro
 
 
