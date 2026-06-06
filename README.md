@@ -118,9 +118,9 @@ The observed simulation results matched the expected theoretical outputs.
 
 ## Design Hierarchy
 
-```markdown
+
 ![hierarchy](images/hierarchy.png)
-```
+
 
 ---
 
