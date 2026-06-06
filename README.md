@@ -127,18 +127,17 @@ The observed simulation results matched the expected theoretical outputs.
 ## RTL Schematic
 
 
-```markdown
+
 ![RTL_Schematic](images/RTL_Schematic.png)
-```
 
 ---
 
 ## Simulation Results
 
 
-```markdown
+
 ![Waveform](images/Waveform.png)
-```
+
 
 ---
 
