@@ -119,7 +119,7 @@ The observed simulation results matched the expected theoretical outputs.
 ## Design Hierarchy
 
 ```markdown
-![Hierarchy](images/hierarchy.png)
+![hierarchy](images/hierarchy.png)
 ```
 
 ---
@@ -128,7 +128,7 @@ The observed simulation results matched the expected theoretical outputs.
 
 
 ```markdown
-![RTL Schematic](images/rtl_schematic.png)
+![RTL_Schematic](images/RTL_Schematic.png)
 ```
 
 ---
@@ -137,7 +137,7 @@ The observed simulation results matched the expected theoretical outputs.
 
 
 ```markdown
-![Waveform](images/waveform.png)
+![Waveform](images/Waveform.png)
 ```
 
 ---
